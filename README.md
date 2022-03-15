@@ -19,5 +19,5 @@ Html 5, Sass, Bootstrap, JQuery, Isotope JS
     ├── style.css
     └── styles.scss
 
-- libraries directory includes bootstrap, fontawesome, isotope, jquery
-- this project use live sass compiler (scss to plain css)
+- libraries directory includes bootstrap, fontawesome, isotope and jquery
+- this project uses live sass compiler (scss to plain css)
