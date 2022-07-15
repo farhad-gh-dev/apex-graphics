@@ -2,7 +2,7 @@
 
 A Feature Rich Design Agency Landing Page. In case of any use of this project, contribution to my [github account](https://github.com/farhad-gh-dev) is needed.
 
-![enter image description here](https://raw.githubusercontent.com/farhad-gh-dev/apex-graphics/master/images/screenshot.png)
+![apex graphics screenshot](https://raw.githubusercontent.com/farhad-gh-dev/apex-graphics/master/images/screenshot.png)
 
 ## Tech stack
 
