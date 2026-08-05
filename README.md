@@ -6,7 +6,7 @@ A Feature Rich Design Agency Landing Page. In case of any use of this project, c
 
 ## Tech stack
 
-Html 5, Sass, Bootstrap, JQuery, Isotope JS
+HTML5, Sass, Bootstrap, jQuery, Isotope JS
 
 ## Project Structure
 
