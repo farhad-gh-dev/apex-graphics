@@ -1,6 +1,6 @@
 # Apex Graphics
 
-A Feature-Rich Design Agency Landing Page. In case of any use of this project, contribution to my [github account](https://github.com/farhad-gh-dev) is needed.
+A Feature-Rich Design Agency Landing Page. In case of any use of this project, attribution to my [github account](https://github.com/farhad-gh-dev) is needed.
 
 ![apex graphics screenshot](https://raw.githubusercontent.com/farhad-gh-dev/apex-graphics/master/images/screenshot.png)
 
