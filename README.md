@@ -19,5 +19,5 @@ HTML5, Sass, Bootstrap, jQuery, Isotope JS
     ├── style.css
     └── style.scss
 
-- libraries directory includes bootstrap, fontawesome, isotope and jquery
+- libraries directory includes Bootstrap, Font Awesome, Isotope and jQuery
 - this project uses live sass compiler (scss to plain css)
